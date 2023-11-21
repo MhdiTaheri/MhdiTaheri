@@ -1,4 +1,4 @@
-# Hi there! I'm Mahdi Taheri 👋 ![Verified](https://img.shields.io/badge/Verified-blueviolet?style=flat-square)
+# Hi there! I'm Mahdi Taheri  ![Verified](https://img.shields.io/badge/Verified-blueviolet?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=MhdiTaheri&color=blueviolet)
 
 ## 👨‍💻 About Me
