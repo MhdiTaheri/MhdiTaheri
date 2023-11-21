@@ -1,17 +1,20 @@
 # Hi there! I'm Mahdi Taheri 👋 ![Verified](https://img.shields.io/badge/Verified-blueviolet?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=MhdiTaheri&color=blueviolet)
 
-I'm a passionate developer interested in various technologies:
+## 👨‍💻 About Me
+I'm a passionate developer with a love for exploring various technologies and creating innovative solutions.
 
-## Skills
-- **Programming Languages:** Python, JavaScript, PHP
+### Skills
+- **Languages:** Python, JavaScript, PHP
 - **Frontend:** HTML, CSS, JavaScript (React, React Native), Bootstrap
 - **Backend:** PHP (Laravel)
-- **Database:** SQL, MongoDB
+- **Databases:** SQL, MongoDB
 
-![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical)
-
-## Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical)
 
-Feel free to connect with me!
+## 🌐 Find Me
+Connect with me or drop a message!
+- Gmail: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+- Google: [![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com)
