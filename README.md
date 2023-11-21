@@ -10,9 +10,9 @@ I'm a passionate developer with a love for exploring various technologies and cr
 - **Backend:** PHP (Laravel)
 - **Databases:** SQL, MongoDB
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical)
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical)
-[![Tech Stacks](https://img.shields.io/badge/-Tec%20Stacks-black?style=flat&logo=github)](https://github.com/yebekhe#-tec-stacks)
 
 ## 🌐 Find Me
 Connect with me or drop a message!
