@@ -9,12 +9,11 @@ I'm a passionate developer with a love for exploring various technologies and cr
 - **Frontend:** HTML, CSS, JavaScript (React, React Native), Bootstrap
 - **Backend:** PHP (Laravel)
 - **Databases:** SQL, MongoDB
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical)
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical)
+[![Tech Stacks](https://img.shields.io/badge/-Tec%20Stacks-black?style=flat&logo=github)](https://github.com/yebekhe#-tec-stacks)
 
 ## 🌐 Find Me
 Connect with me or drop a message!
 - Gmail: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-- Google: [![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com)
