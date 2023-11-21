@@ -19,4 +19,6 @@ I'm a passionate developer with a love for exploring various technologies and cr
 Connect with me or drop a message!
 - Gmail: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-![Stars Badge](https://img.shields.io/github/stars/MhdiTaheri?style=social)
+## 🌟 Other Badges
+- ![Stars Badge](https://img.shields.io/github/stars/MhdiTaheri?style=social&label=Stars)
+- ![File Count Badge](https://img.shields.io/github/directory-file-count/MhdiTaheri/repository-name/path?label=File%20Count)
