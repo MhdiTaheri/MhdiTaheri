@@ -9,6 +9,7 @@ I'm a passionate developer with a love for exploring various technologies and cr
 - **Frontend:** HTML, CSS, JavaScript (React, React Native), Bootstrap
 - **Backend:** PHP (Laravel)
 - **Databases:** SQL, MongoDB
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical)
 
 ## 📊 GitHub Stats
