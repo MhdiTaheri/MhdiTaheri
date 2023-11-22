@@ -13,8 +13,7 @@ I'm a passionate developer with a love for exploring various technologies and cr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical)
 
 ## 📊 GitHub Stats & Top Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MhdiTaheri&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical)![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MhdiTaheri&show_icons=true&theme=tokyonight)  
 ## 🌐 Connect with Me
 Feel free to reach out or connect with me!
 - Gmail: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vip.mahditaheri@gmail.com)
