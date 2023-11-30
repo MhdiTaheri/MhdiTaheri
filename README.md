@@ -10,11 +10,6 @@ I'm a passionate developer with a love for exploring various technologies and cr
 - **Backend:** PHP (Laravel)
 - **Databases:** SQL, MongoDB
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MhdiTaheri&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-
-
-
-
 ## 📊 GitHub Stats
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical&hide_border=true&count_private=true" />
