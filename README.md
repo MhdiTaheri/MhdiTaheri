@@ -1,21 +1,46 @@
-# Hi there! I'm Mahdi Taheri  ![Verified](https://img.shields.io/badge/Verified-blueviolet?style=flat-square)
-[![Profile Views](https://komarev.com/ghpvc/?username=MhdiTaheri&color=blueviolet)](https://github.com/MhdiTaheri)
-
-## 👨‍💻 About Me
-I'm a passionate developer with a love for exploring various technologies and creating innovative solutions.
-
-### Skills
-- **Languages:** Python, JavaScript, PHP
-- **Frontend:** HTML, CSS, JavaScript (React, React Native), Bootstrap
-- **Backend:** PHP (Laravel)
-- **Databases:** SQL, MongoDB
-
-## 📊 GitHub Stats
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MhdiTaheri&show_icons=true&theme=radical&hide_border=true&count_private=true" style="float:right" />
-</div>
-
-## 🌐 Connect with Me
-Feel free to reach out or connect with me!
-- Gmail: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vip.mahditaheri@gmail.com)
+<h3 align="center">
+    <samp>&gt; Hey There!, I am <b>Mahdi Taheri</b>
+    </samp>
+</h3>
+<br>
+<p align="center">
+  <a href="https://github.com/MhdiTaheri">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=MhdiTaheri&color=blueviolet" />
+  </a>
+</p>
+<br>
+<p align="center">
+    <samp>
+        <  I'm a passionate developer with a love for exploring various technologies and creating innovative solutions  >
+        <br>
+        <br>
+    </samp>
+    <a href="https://github.com/MhdiTaheri?tab=repositories" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+    </a>
+    <a href="https://github.com/MhdiTaheri?tab=repositories" target="_blank">
+        <img alt="php" src="https://img.shields.io/badge/-php-4DABD4?style=flat-square&logo=php&logoColor=white">
+    </a>
+    <a href="https://github.com/MhdiTaheri?tab=repositories" target="_blank">
+        <img alt="laravel" src="https://img.shields.io/badge/-laravel-9b3675?style=flat-square&logo=laravel&logoColor=white">
+    </a>
+</p>
+<details align="center">
+    <summary> <samp>Details</samp></summary>
+    <p align="center">
+        <br>
+        <center>
+            <img height="170em"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical&hide_border=true"
+                alt="Top Languages" />
+        </center>
+        <br>
+        <img height="160em"
+            src="https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical&hide_border=true&count_private=true"
+            alt="GitHub Stats" />
+        <img height="160em"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=MhdiTaheri&show_icons=true&theme=radical&hide_border=true&count_private=true"
+            style="float:right"
+            alt="GitHub Streak" />
+    </p>
+</details>
