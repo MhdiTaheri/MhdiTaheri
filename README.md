@@ -1,5 +1,5 @@
 <h3 align="center">
-    <samp>&gt; Hey There!, I am <b>Mahdi Taheri</b>
+    <samp>Hey There!, I am <b>Mahdi Taheri</b>
     </samp>
 </h3>
 <br>
