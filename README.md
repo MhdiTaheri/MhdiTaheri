@@ -46,5 +46,8 @@
             src="https://github-readme-streak-stats.herokuapp.com/?user=MhdiTaheri&show_icons=true&theme=radical&hide_border=true&count_private=true"
             style="float:right"
             alt="GitHub Streak" />
+        <img height="227em"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MhdiTaheri&theme=radical"
+            alt="GitHub Summary" />
     </p>
 </details>
