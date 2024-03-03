@@ -33,12 +33,6 @@
     <summary> <samp>Details</samp></summary>
     <p align="center">
         <br>
-        <center>
-            <img height="170em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdiTaheri&layout=compact&theme=radical&hide_border=true"
-                alt="Top Languages" />
-        </center>
-        <br>
         <img height="160em"
             src="https://github-readme-stats.vercel.app/api?username=MhdiTaheri&show_icons=true&theme=radical&hide_border=true&count_private=true"
             alt="GitHub Stats" />
